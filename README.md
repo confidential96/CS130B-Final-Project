@@ -1,4 +1,4 @@
-#H1 Graph MMST Analysis
+# Graph MMST Analysis
 
 Implementation of MST algorithms on Graph w/ edges with k-weight, k is a natural number
 This program attempted to give solutions to an intractable problem. To find a Minimum Spanning Tree to a graph with edges with k-weights. 
